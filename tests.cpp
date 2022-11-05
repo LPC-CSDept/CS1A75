@@ -22,7 +22,7 @@ TEST_CASE("Ex1 finduserstring()", "[example]")
 	REQUIRE(position == 3);
 }
 // tests for exercise 2
-TEST_CASE("Ex2 deleteone()", "[example]")
+TEST_CASE("Ex2 finduserstring()", "[example]")
 {
 	int cstrlen, userlen, position;
 	char cstr[] = "C++ Programming";
